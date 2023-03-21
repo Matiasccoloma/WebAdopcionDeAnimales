@@ -2,10 +2,18 @@
     color: #040404;
     text-align: center;
 }
-h1 {
-    color: #040404;
-    margin-left: auto;
+.contenedor {
+    display: flex;
+    justify-content: center;
+    
 }
-a {
-    text-align: 50%;
+.imagen{
+    width: 250px;
+    margin-right: 50px;
+    border-style: groove;
 }
+.linka {
+        justify-content: left;
+}
+
+
